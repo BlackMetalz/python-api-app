@@ -1,0 +1,4 @@
+[database]
+database_host = localhost
+database_user = admin
+database_pass = secret123
